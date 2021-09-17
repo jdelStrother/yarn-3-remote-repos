@@ -1,0 +1,10 @@
+{
+  "name": "wtf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "peaks.js": "https://github.com/bbc/peaks.js"
+  },
+  "packageManager": "yarn@3.0.2"
+}
